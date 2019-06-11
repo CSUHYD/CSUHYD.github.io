@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Hello My Blog]]></title>
+    <url>%2F2019%2F06%2F11%2Fmy-first-blog%2F</url>
+    <content type="text"><![CDATA[今天是2019年6月11日，天朗气清。 开始吧。]]></content>
+      <categories>
+        <category>搭建博客</category>
+      </categories>
+      <tags>
+        <tag>npm</tag>
+        <tag>hexo</tag>
+        <tag>github</tag>
+      </tags>
+  </entry>
+</search>
